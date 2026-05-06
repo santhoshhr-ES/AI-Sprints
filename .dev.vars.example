@@ -1,0 +1,4 @@
+# Copy to .dev.vars for local auth + D1 (OpenNext dev)
+NEXTJS_ENV=development
+# Min 32 random bytes in production; example for local only:
+SESSION_SECRET=local-dev-session-secret-change-me-32chars
